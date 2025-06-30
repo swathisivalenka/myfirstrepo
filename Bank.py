@@ -16,7 +16,7 @@ b.deposit(2000)
 #print(b.__balance)
 #print(b.get_balance())
 b.withdraw(5000)
-b.withdraw
+b.withdraw(-100)
 print(b.get_balance())
 
 
